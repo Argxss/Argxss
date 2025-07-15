@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @Argxss
-- 👀 I’m interested in learning to create programs, and my degree.
-- 🌱 I’m currently learning Python, and Javascript.
-- 💞️ I’m looking to collaborate on anyone giving me tips on coding.
-- 📫 How to reach me ... don't bother
-- 😄 Pronouns: he/him
+- Hi, I’m @Argxss
+- I’m Studying A Dual Bachelor of Commerce (Finance) and Economics (International Finance)
+- I’m currently learning Python on the side, a bit of italian and piano aswell.
 
 <!---
 Argxss/Argxss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
