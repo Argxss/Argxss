@@ -1,5 +1,4 @@
 - Hi, I’m @Argxss
-- I’m Studying A Dual Bachelor of Commerce (Finance) and Economics (International Finance)
 - I’m currently learning Python on the side, a bit of Italian and Piano aswell.
 
 <!---
