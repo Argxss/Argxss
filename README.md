@@ -1,5 +1,5 @@
 - Hi, I’m @Argxss
-- I’m currently learning Python on the side, a bit of Italian and Piano aswell.
+- I’m currently learning Python on the side, a bit of Italian and Chinese.
 
 <!---
 Argxss/Argxss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
